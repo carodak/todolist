@@ -4,4 +4,6 @@ Objective:
 
 Make a small application to manage the tasks of a person like a "todolist".
 
+![alt text](app.png)
+
 Note: The work could be improved by performing tests with JUnit
